@@ -23,7 +23,11 @@ header {
     background-color:lightcoral;
 }
 
-/*Main*/
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+/*Main content*/
 main {
     background-color: lightblue;
     flex: 1 0 auto;
